@@ -1,0 +1,7 @@
+---
+
+profiles::blogger::db_password: 'wordpress'
+profiles::blogger::db_user: 'wordpress'
+profiles::blogger::docroot: '/var/www/blog'
+profiles::blogger::wp_group: 'wordpress'
+profiles::blogger::wp_owner: 'wordpress'
