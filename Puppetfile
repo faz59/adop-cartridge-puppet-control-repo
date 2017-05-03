@@ -1,5 +1,14 @@
 forge "http://forge.puppetlabs.com"
 
+mod 'hunner-wordpress', '1.0.0'
+mod 'puppetlabs-mysql', '3.10.0'
+mod 'puppetlabs-stdlib', '4.16.0'
+mod 'puppet-staging', '2.2.0'
+mod 'puppetlabs-apache', '1.11.0'
+mod 'puppetlabs-concat', '4.0.0'
+mod 'puppetlabs-mysql', '3.10.0'
+
+
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod "puppetlabs/inifile",     '1.5.0'
